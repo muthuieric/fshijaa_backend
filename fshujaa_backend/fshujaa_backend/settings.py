@@ -122,8 +122,8 @@ INSTALLED_APPS = [
 
     'corsheaders',
 
-    # 'chat',
-    # 'course',
+    'chat',
+    'course',
     'useraccount',
     
 ]
